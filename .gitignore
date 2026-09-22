@@ -1,0 +1,10 @@
+# Geheimnisse – niemals committen
+.env
+
+# Virtuelle Umgebung und Python-Cache
+.venv/
+__pycache__/
+*.pyc
+
+# Debug-Ausgaben von main.py --debug
+debug_*.txt
